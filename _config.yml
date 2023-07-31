@@ -9,3 +9,6 @@ plugins:
 collections:
   de_de:
     permalink: /snippets/de_de/:path/
+
+# show_downloads: false
+# google_analytics: 12345
