@@ -1,6 +1,6 @@
 # Stock
 
-{% include de_de/wip.md %}
+{% include de_de/wip %}
 
 ## Beschreibung
 
