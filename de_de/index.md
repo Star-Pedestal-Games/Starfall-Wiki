@@ -48,6 +48,7 @@ Hier finden Sie Informationen und Hilfen zu Ingame Starfall Objekten, NPC´s , I
 | X ||
 | Y ||
 | Z ||
+
 </details>
 
 ## Waffen
@@ -83,6 +84,7 @@ Hier finden Sie Informationen und Hilfen zu Ingame Starfall Objekten, NPC´s , I
 | X ||
 | Y ||
 | Z ||
+
 </details>
 
 ## Rüstungen
@@ -118,6 +120,7 @@ Hier finden Sie Informationen und Hilfen zu Ingame Starfall Objekten, NPC´s , I
 | X ||
 | Y ||
 | Z ||
+
 </details>
 
 ## Relikte
@@ -153,6 +156,7 @@ Hier finden Sie Informationen und Hilfen zu Ingame Starfall Objekten, NPC´s , I
 | X ||
 | Y ||
 | Z ||
+
 </details>
 
 ## Artefakte
@@ -188,6 +192,7 @@ Hier finden Sie Informationen und Hilfen zu Ingame Starfall Objekten, NPC´s , I
 | X ||
 | Y ||
 | Z ||
+
 </details>
 
 ## Gegner
@@ -223,6 +228,7 @@ Hier finden Sie Informationen und Hilfen zu Ingame Starfall Objekten, NPC´s , I
 | X ||
 | Y ||
 | Z ||
+
 </details>
 
 ## Mini-Bosse
@@ -258,6 +264,7 @@ Hier finden Sie Informationen und Hilfen zu Ingame Starfall Objekten, NPC´s , I
 | X ||
 | Y ||
 | Z ||
+
 </details>
 
 ## Bosse
@@ -293,6 +300,7 @@ Hier finden Sie Informationen und Hilfen zu Ingame Starfall Objekten, NPC´s , I
 | X ||
 | Y ||
 | Z ||
+
 </details>
 
 ## Orte
@@ -328,6 +336,7 @@ Hier finden Sie Informationen und Hilfen zu Ingame Starfall Objekten, NPC´s , I
 | X ||
 | Y ||
 | Z ||
+
 </details>
 
 ## Dungeons
@@ -363,4 +372,5 @@ Hier finden Sie Informationen und Hilfen zu Ingame Starfall Objekten, NPC´s , I
 | X ||
 | Y ||
 | Z ||
+
 </details>

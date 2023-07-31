@@ -1,2 +1,2 @@
-@import "{{site.style}}";
+@import "{{ site.theme }}";
 @import "/assets/css/custom_syle.css";
