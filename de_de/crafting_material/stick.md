@@ -1,6 +1,6 @@
 # Stock
 
-{% data reusables.de_de.wip %}
+{% include /data/reusables/de_de/wip %}
 
 ## Beschreibung
 
