@@ -6,5 +6,5 @@ plugins:
 - jekyll-remote-theme
 
 collections:
-	de_de:
-		permalink: /snippets/de_de/:path/
+  de_de:
+    permalink: /snippets/de_de/:path/
