@@ -1,5 +1,4 @@
-Diese Seite ist Veraltet <br>
-Es könnten möglicherweise Informationen fehlen oder sogar komplett falsch sein.
+**Diese Seite is noch in Veraltet!**<br>
+Es könnte sein das Informationen fehlen oder sogar falsch sind.
 
-Hilf uns das wiki zu verbessern <br>
-https://github.com/Star-Pedestal-Games/Starfall-Wiki
+Du kannst [hier](https://github.com/Star-Pedestal-Games/Starfall-Wiki) helfen das Wiki zu verbessern.

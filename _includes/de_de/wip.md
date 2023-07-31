@@ -1,5 +1,4 @@
-Diese Seite ist noch in Arbeit <br>
-Es könnten möglicherweise Informationen fehlen.
+**Diese Seite is noch in Arbeit!**<br>
+Es könnte sein das Informationen fehlen.
 
-Hilf uns das wiki zu verbessern <br>
-https://github.com/Star-Pedestal-Games/Starfall-Wiki
+Du kannst [hier](https://github.com/Star-Pedestal-Games/Starfall-Wiki) helfen das Wiki zu verbessern.

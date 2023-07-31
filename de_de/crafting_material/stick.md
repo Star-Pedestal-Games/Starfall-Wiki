@@ -1,5 +1,7 @@
 # [Starfall Wiki](/de_de/index.md)
 
+{% include de_de/wip.md %}
+
 ## Stock
 
 ### Beschreibung

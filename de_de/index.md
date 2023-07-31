@@ -1,7 +1,7 @@
 # [Starfall Wiki](/index.md)
 
 Willkommen im Starfall Wiki! <br>
-Hier finden Sie Informationen und Hilfen zu Ingame Starfall Objekten, NPC´s , Items und mehr.
+Hier finden Sie Informationen und Hilfen zu Starfall Objekten, NPC´s, Gegnern, Items und vielem mehr.
 
 ## Inhalt:
  1. [Crafting Materialien](#crafting-material)
@@ -25,7 +25,7 @@ Hier finden Sie Informationen und Hilfen zu Ingame Starfall Objekten, NPC´s , I
 | A ||
 | B |[<m>Bernstein]() &#8729; [<m>Blut Tropfen]() |
 | C ||
-| D |[<m>Dornen Stab]() &#8729; [<m>Dunkeler Samen]() &#8729; [<m>Dunkeler Kern]()|
+| D |[<m>Dornen Stab]() &#8729; [<m>Dunkler Samen]() &#8729; [<m>Dunkler Kern]()|
 | E ||
 | F |[<m>Feiner Stein]()|
 | G ||
