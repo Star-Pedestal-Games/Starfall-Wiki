@@ -1,4 +1,4 @@
-# [Starfall Wiki](/index.md)
+# [Starfall Wiki](/index) (DE)
 
 Willkommen im Starfall Wiki! <br>
 Hier finden Sie Informationen und Hilfen zu Starfall Objekten, NPC´s, Gegnern, Items und vielem mehr.
