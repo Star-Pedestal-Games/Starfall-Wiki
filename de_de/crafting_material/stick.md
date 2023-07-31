@@ -1,6 +1,6 @@
 # Stock
 
-{% include de_de/wip %}
+{% renderFile "/de_de/reusables/wip.md" %}
 
 ## Beschreibung
 
