@@ -1,8 +1,2 @@
-h1 {
-	color: red;
-}
-
-m {
-	color: red;
-	text-decoration: underline;
-}
+@import "{{site.style}}";
+@import "/assets/css/custom_syle.css";
