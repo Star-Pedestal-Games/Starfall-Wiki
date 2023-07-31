@@ -1,6 +1,6 @@
 # Stock
 
-{% include "/de_de/reusables/wip.md" %}
+{% for snippet in site.de_de %} ... {% endfor %}
 
 ## Beschreibung
 
