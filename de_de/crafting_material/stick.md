@@ -1,5 +1,7 @@
 # Stock
 
+{% data reusables.de_de.wip %}
+
 ## Beschreibung
 
 Der Stock ist wie im normalen Minecraft ... ein Stock.
