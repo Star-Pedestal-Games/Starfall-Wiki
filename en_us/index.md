@@ -1,1 +1,3 @@
-# TODO: create english wiki
+# [Starfall Wiki](/index.md)
+
+WIP

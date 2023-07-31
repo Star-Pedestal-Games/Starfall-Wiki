@@ -1,12 +1,12 @@
-# Stock
+# [Starfall Wiki](/de_de/index.md)
 
-{% for snippet in site.de_de %} ... {% endfor %}
+## Stock
 
-## Beschreibung
+### Beschreibung
 
 Der Stock ist wie im normalen Minecraft ... ein Stock.
 
-## Herkunft
+### Herkunft
 
 Der Stock kann von folgenden Gegner fallengelassen werden:
 
@@ -14,8 +14,10 @@ Der Stock kann von folgenden Gegner fallengelassen werden:
 - [Skelett](/de_de/gegner/skelett)
 - [Zombie](/de_de/gegner/zombie)
 
-## Herstellung
+### Herstellung
 
-### Genutzt in:
+#### Hergestellt durch:
+- Item0
+#### Genutzt in:
 
 - Item1
