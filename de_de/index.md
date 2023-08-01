@@ -2,7 +2,8 @@
 title: Starfall Wiki - Deutsch
 permalink: {{ "/de_de/" | relative_url }}
 ---
-# [<t>Starfall Wiki]({{ "/" | absolute_url }}) (DE)
+# <t>Starfall Wiki</t> (DE)
+[<e>Zurück</e>]({{ "/" | absolute_url }})
 
 {% include de_de/wip.md %}
 
