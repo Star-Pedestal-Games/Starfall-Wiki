@@ -1,4 +1,4 @@
-# [<t>Starfall Wiki]({{site.baseurl}}/index.md) (DE)
+# [<t>Starfall Wiki]({{site.baseurl}}/index) (DE)
 
 {% include de_de/wip.md %}
 
@@ -38,14 +38,14 @@ Herstellungsmaterialien sin Gegenst√§nde welche zur Herstellung anderer Gegenst√
 | I ||
 | J ||
 | K ||
-| L |[<e>Leder]({{site.baseurl}}/de_de/crafting_material/leather.md)|
+| L |[<e>Leder]({{site.baseurl}}/de_de/crafting_material/leather)|
 | M ||
 | N ||
 | O ||
 | P ||
 | Q ||
 | R ||
-| S |[<e>Stock]({{site.baseurl}}/de_de/crafting_material/stick.md)|
+| S |[<e>Stock]({{site.baseurl}}/de_de/crafting_material/stick)|
 | T ||
 | U ||
 | V ||
@@ -387,8 +387,8 @@ Orte sind bestimmte Bereiche in der Welt von Starfall.
 | P ||
 | Q ||
 | R ||
-| S |[<e>Spawn](/de_de/places/spawn.md)|
-| T |[<e>Tutorial](/de_de/places/tutorial.md)|
+| S |[<e>Spawn](/de_de/places/spawn)|
+| T |[<e>Tutorial](/de_de/places/tutorial)|
 | U ||
 | V ||
 | W ||
@@ -453,7 +453,7 @@ Mechaniken sind Funktionen die im Normalen Minecraft nicht vorhanden sind und de
 | F ||
 | G ||
 | H ||
-| I |[<e>Interagieren]({{site.baseurl}}/de_de/mechanics/interact.md)|
+| I |[<e>Interagieren]({{site.baseurl}}/de_de/mechanics/interact)|
 | J ||
 | K ||
 | L ||

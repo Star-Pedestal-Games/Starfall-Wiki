@@ -1,3 +1,3 @@
-# [<t>Starfall Wiki]({{site.baseurl}}/index.md) (EN)
+# [<t>Starfall Wiki]({{site.baseurl}}/index) (EN)
 
 WIP
