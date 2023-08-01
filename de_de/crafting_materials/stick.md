@@ -1,7 +1,8 @@
 ---
-permalink: /de_de/crafting-materials/stick/
+permalink: {{ "/de_de/crafting-materials/stick/" | relative_url }}
 ---
-# [<t>Starfall Wiki](/de_de/)
+# <t>Starfall Wiki
+[<e>Back</e>]({{ "/de_de/" | absolute_url }})
 
 {% include de_de/wip.md %}
 
@@ -13,10 +14,10 @@ Der Stock ist ein Simples Herstellungsmaterial welches weit erhältlich ist.
 
 Der Stock ist nur durch Gegner-Beute erhältlich.
 Die folgenden Gegner lassen Stöcke fallen:
-- [<m>Geist]()
-- [<m>Zombie]()
-- [<m>Skelett]()
-- [<m>Isabella]()
+- [<m>Geist</m>]()
+- [<m>Zombie</m>]()
+- [<m>Skelett</m>]()
+- [<m>Isabella</m>]()
 
 ### Herstellung
 

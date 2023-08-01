@@ -43,14 +43,14 @@ Herstellungsmaterialien sin Gegenst채nde welche zur Herstellung anderer Gegenst�
 | I ||
 | J ||
 | K ||
-| L |[<e>Leder](/de_de/crafting-materials/leather/)|
+| L |[<e>Leder</e>]({{ "/de_de/crafting-materials/leather/" | absolute_url }})|
 | M ||
 | N ||
 | O ||
 | P ||
 | Q ||
 | R ||
-| S |[<e>Stock](/de_de/crafting-materials/stick/)|
+| S |[<e>Stock</e>]({{ "/de_de/crafting-materials/stick/" | absolute_url }})|
 | T ||
 | U ||
 | V ||
@@ -63,7 +63,7 @@ Herstellungsmaterialien sin Gegenst채nde welche zur Herstellung anderer Gegenst�
 
 ## Waffen
 
-Waffen sind Gegenst채nde deren Aufgabe es ist Schaden an [<e>Gegnern](#gegner) zu machen.
+Waffen sind Gegenst채nde deren Aufgabe es ist Schaden an [<e>Gegnern</e>](#gegner) zu machen.
 
 <details>
 	<summary>(Tabelle Ausklappen)</summary>
@@ -177,7 +177,7 @@ Relikte sind Ausr체stungsgegenst채nde die dem Spieler Verbesserungen geben.
 
 ## Artefakte
 
-Artefakte sind Ausr체stungsgegenst채nde welche man im obersten linken Inventar Slot ausr체stet, wie [<e>Relikte](#relikte) geben sie dem Spieler Verbesserungen.
+Artefakte sind Ausr체stungsgegenst채nde welche man im obersten linken Inventar Slot ausr체stet, wie [<e>Relikte</e>](#relikte) geben sie dem Spieler Verbesserungen.
 
 <details>
 	<summary>(Tabelle Ausklappen)</summary>
@@ -215,7 +215,7 @@ Artefakte sind Ausr체stungsgegenst채nde welche man im obersten linken Inventar S
 
 ## NPCs
 
-NPCs sind [<o>Non Player Character](https://de.wikipedia.org/wiki/Nicht-Spieler-Charakter)[^1] (Nicht Spieler Charakter), Im context dieses Abschnittes werden nur Freundliche NPCs beachtet da feindliche NPCs unter [<e>Gegnern](#gegner) und [<e>Bossen](#bosse) gelistet werden.
+NPCs sind [<o>Non Player Character</o>](https://de.wikipedia.org/wiki/Nicht-Spieler-Charakter)[^1] (Nicht Spieler Charakter), Im context dieses Abschnittes werden nur Freundliche NPCs beachtet da feindliche NPCs unter [<e>Gegnern</e>](#gegner) und [<e>Bossen</e>](#bosse) gelistet werden.
 
 <details>
 	<summary>(Tabelle Ausklappen)</summary>
@@ -253,7 +253,7 @@ NPCs sind [<o>Non Player Character](https://de.wikipedia.org/wiki/Nicht-Spieler-
 
 ## Gegner
 
-Gegner sind Feindliche [<e>NPCs](#npcs) welche den Spieler angreifen.
+Gegner sind Feindliche [<e>NPCs</e>](#npcs) welche den Spieler angreifen.
 
 <details>
 	<summary>(Tabelle Ausklappen)</summary>
@@ -291,7 +291,7 @@ Gegner sind Feindliche [<e>NPCs](#npcs) welche den Spieler angreifen.
 
 ## Mini-Bosse
 
-Mini-Bosse sind st채rkere [<e>Gegner](#gegner).
+Mini-Bosse sind st채rkere [<e>Gegner</e>](#gegner).
 
 <details>
 	<summary>(Tabelle Ausklappen)</summary>
@@ -329,7 +329,7 @@ Mini-Bosse sind st채rkere [<e>Gegner](#gegner).
 
 ## Bosse
 
-Bosse sind im Grunde nur [<e>Gegner](#gegner), jedoch sind sie meistens in abgetrennten Arenen und haben ein Einzigartiges Kampf muster. Bosse lassen einzigartige Beute fallen sollte der Spieler es schaffen sie zu besiegen.
+Bosse sind im Grunde nur [<e>Gegner</e>](#gegner), jedoch sind sie meistens in abgetrennten Arenen und haben ein Einzigartiges Kampf muster. Bosse lassen einzigartige Beute fallen sollte der Spieler es schaffen sie zu besiegen.
 
 <details>
 	<summary>(Tabelle Ausklappen)</summary>
@@ -392,8 +392,8 @@ Orte sind bestimmte Bereiche in der Welt von Starfall.
 | P ||
 | Q ||
 | R ||
-| S |[<e>Spawn](/de_de/places/spawn)|
-| T |[<e>Tutorial](/de_de/places/tutorial)|
+| S |[<e>Spawn</e>]({{ "/de_de/places/spawn/" | absolute_url }})|
+| T |[<e>Tutorial</e>]({{ "/de_de/places/tutorial/" | absolute_url }})|
 | U ||
 | V ||
 | W ||
@@ -405,7 +405,7 @@ Orte sind bestimmte Bereiche in der Welt von Starfall.
 
 ## Dungeons
 
-Dungeons sind Spezielle [<e>Orte](#orte) in Starfall in welchen man [<e>Bosse](#bosse) oder Herausforderungen finden kann.
+Dungeons sind Spezielle [<e>Orte</e>](#orte) in Starfall in welchen man [<e>Bosse</e>](#bosse) oder Herausforderungen finden kann.
 
 <details>
 	<summary>(Tabelle Ausklappen)</summary>
@@ -458,7 +458,7 @@ Mechaniken sind Funktionen die im Normalen Minecraft nicht vorhanden sind und de
 | F ||
 | G ||
 | H ||
-| I |[<e>Interagieren]({{site.baseurl}}/de_de/mechanics/interact)|
+| I |[<e>Interagieren</e>]({{ "/de_de/mechanics/interact/" | absolute_url }})|
 | J ||
 | K ||
 | L ||

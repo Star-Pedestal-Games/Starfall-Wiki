@@ -1,2 +1,25 @@
 @import "{{ site.theme }}";
 @import "/assets/css/custom_style.css";
+
+/*Used in Links if the Page exists.*/
+e
+{
+	color: blue;
+}
+/*Used in Links if the Page is missing.*/
+m
+{
+	color: red;
+	text-decoration: underline;
+}
+/*Used in Links if they lead outside.*/
+o
+{
+	color: purple;
+	text-decoration: dotted;
+}
+/*Used for Titles*/
+t
+{
+	color: yellow;
+}

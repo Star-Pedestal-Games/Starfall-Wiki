@@ -9,12 +9,13 @@ m
 	color: red;
 	text-decoration: underline;
 }
+/*Used in Links if they lead outside.*/
 o
 {
 	color: purple;
 	text-decoration: dotted;
 }
-
+/*Used for Titles*/
 t
 {
 	color: yellow;
