@@ -1,0 +1,1 @@
+In diesem Gebiet gibt es {{ secrets }} Geheimnisse zu finden.

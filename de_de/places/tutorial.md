@@ -16,7 +16,7 @@ Das Tutorial beginnt mit einem Parkour welches dem Spieler beibringen soll wie d
 
 Nach dem [<e>Parkour](#parkour) gerät  man an eine Kreuzung,<br>
 Zur Rechten ist eine [<e>Burg](#die-burg) welche du nicht betreten kannst ohne eine Waffe zu erhalten.<br>
-Zur Linken ist ein "Haus" in welchem man das [<e>Interagieren](/de_de/mechanics/interact.md) lernt, Im "Haus" gibt es viele Interaktionspunkte welche einem ein bisschen Informationen über das Objekt geben.
+Zur Linken ist ein "Haus" in welchem man das [<e>Interagieren](/de_de/mechanics/interact.md) lernt, Im "Haus" gibt es viele [<e>Interaktionen](/de_de/mechanics/interact.md#interaktion) welche einem ein bisschen Informationen über das Objekt geben.
 In diesem Haus Lebt [<m>Jeffrey]() welcher dem Player ein [<m>Schwert]() gibt durch welches er fortfahren kann sowie dem Spieler eine [<m>Quest]() gibt.
 
 ### Die Burg
@@ -24,4 +24,4 @@ In diesem Haus Lebt [<m>Jeffrey]() welcher dem Player ein [<m>Schwert]() gibt du
 {% include de_de/secrets.md secrets="2" %}
 
 Nachdem man mit [<m>Jeffrey]() geredet hat kann man in die Burg gehen.<br>
-Die Burg ist ein kleines Labyrinth mit vielen r
+Die Burg ist ein kleines Labyrinth mit vielen
