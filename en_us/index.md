@@ -1,3 +1,3 @@
-# [Starfall Wiki](/index) (EN)
+# [Starfall Wiki](/index.md) (EN)
 
 WIP

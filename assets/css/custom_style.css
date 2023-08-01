@@ -1,0 +1,11 @@
+/*Used in Links if the Page exists.*/
+e
+{
+	color: blue;
+}
+/*Used in Links if the Page is missing.*/
+m
+{
+	color: red;
+	text-decoration: underline;
+}

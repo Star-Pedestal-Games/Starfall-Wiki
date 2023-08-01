@@ -4,22 +4,20 @@
 
 ## Stock
 
-### Beschreibung
-
-Der Stock ist wie im normalen Minecraft ... ein Stock.
+Der Stock ist ein Simples Herstellungsmaterial welches weit erhältlich ist.
 
 ### Herkunft
 
-Der Stock kann von folgenden Gegner fallengelassen werden:
-
-- [Geist](/de_de/gegner/geist)
-- [Skelett](/de_de/gegner/skelett)
-- [Zombie](/de_de/gegner/zombie)
+Der Stock ist nur durch Gegner-Beute erhältlich.
+Die folgenden Gegner lassen Stöcke fallen:
+- [<m>Geist]()
+- [<m>Zombie]()
+- [<m>Skelett]()
+- [<m>Isabella]()
 
 ### Herstellung
 
-#### Hergestellt durch:
-- Item0
-#### Genutzt in:
+{% include de_de/uncraftable.md %}
 
-- Item1
+#### Genutzt in:
+- TODO

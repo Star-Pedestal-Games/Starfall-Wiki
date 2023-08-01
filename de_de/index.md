@@ -1,4 +1,6 @@
-# [Starfall Wiki](/index) (DE)
+# [Starfall Wiki](/index.md) (DE)
+
+{% include de_de/wip.md %}
 
 Willkommen im Starfall Wiki! <br>
 Hier finden Sie Informationen und Hilfen zu Starfall Objekten, NPC´s, Gegnern, Items und vielem mehr.
@@ -8,12 +10,14 @@ Hier finden Sie Informationen und Hilfen zu Starfall Objekten, NPC´s, Gegnern, 
  2. [Waffen](#waffen)
  3. [Rüstungen](#rüstungen)
  4. [Relikte](#relikte)
- 5. [Artefakte]()
- 6. [Gegner]()
- 7. [Mini-Bosse]()
- 8. [Bosse]()
- 9. [Orte]()
-10. [Dungeons]()
+ 5. [Artefakte](#artefakte)
+ 6. [NPCs](#npcs)
+ 7. [Gegner](#gegner)
+ 8. [Mini-Bosse](#mini-bosse)
+ 9. [Bosse](#bosse)
+10. [Orte](#orte)
+11. [Dungeons](#dungeons)
+12. [Mechaniken](#mechaniken)
 
 ## Crafting Materialien
 
@@ -23,25 +27,25 @@ Hier finden Sie Informationen und Hilfen zu Starfall Objekten, NPC´s, Gegnern, 
 |   |  |
 |:-:|:-|
 | A ||
-| B |[<m>Bernstein]() &#8729; [<m>Blut Tropfen]() |
+| B ||
 | C ||
-| D |[<m>Dornen Stab]() &#8729; [<m>Dunkler Samen]() &#8729; [<m>Dunkler Kern]()|
+| D ||
 | E ||
-| F |[<m>Feiner Stein]()|
+| F ||
 | G ||
 | H ||
 | I ||
 | J ||
 | K ||
-| L |[<m>Leder]()|
+| L |[<e>Leder](/de_de/crafting_material/leather.md)|
 | M ||
 | N ||
 | O ||
 | P ||
 | Q ||
-| R |[<m>Roter Sternen Staub]()|
-| S |[<m>Sehr feiner Stein]() &#8729; [<m>Stahl]() &#8729;  [<m>Stein]() &#8729; [<m>Stock]()|
-| T |[<m>Träne]()|
+| R ||
+| S |[<e>Stock](/de_de/crafting_material/stick.md)|
+| T ||
 | U ||
 | V ||
 | W ||
@@ -63,7 +67,7 @@ Hier finden Sie Informationen und Hilfen zu Starfall Objekten, NPC´s, Gegnern, 
 | C ||
 | D ||
 | E ||
-| F |[<m>Farben Kraft]()|
+| F ||
 | G ||
 | H ||
 | I ||
@@ -76,7 +80,7 @@ Hier finden Sie Informationen und Hilfen zu Starfall Objekten, NPC´s, Gegnern, 
 | P ||
 | Q ||
 | R ||
-| S |[<m>Schlagstock]()|
+| S ||
 | T ||
 | U ||
 | V ||
@@ -160,6 +164,42 @@ Hier finden Sie Informationen und Hilfen zu Starfall Objekten, NPC´s, Gegnern, 
 </details>
 
 ## Artefakte
+
+<details>
+	<summary>(Tabelle Ausklappen)</summary>
+
+|   |  |
+|:-:|:-|
+| A ||
+| B ||
+| C ||
+| D ||
+| E ||
+| F ||
+| G ||
+| H ||
+| I ||
+| J ||
+| K ||
+| L ||
+| M ||
+| N ||
+| O ||
+| P ||
+| Q ||
+| R ||
+| S ||
+| T ||
+| U ||
+| V ||
+| W ||
+| X ||
+| Y ||
+| Z ||
+
+</details>
+
+## NPCs
 
 <details>
 	<summary>(Tabelle Ausklappen)</summary>
@@ -328,8 +368,8 @@ Hier finden Sie Informationen und Hilfen zu Starfall Objekten, NPC´s, Gegnern, 
 | P ||
 | Q ||
 | R ||
-| S ||
-| T ||
+| S |[<e>Spawn](/de_de/places/spawn.md)|
+| T |[<e>Tutorial](/de_de/places/tutorial.md)|
 | U ||
 | V ||
 | W ||
@@ -355,6 +395,42 @@ Hier finden Sie Informationen und Hilfen zu Starfall Objekten, NPC´s, Gegnern, 
 | G ||
 | H ||
 | I ||
+| J ||
+| K ||
+| L ||
+| M ||
+| N ||
+| O ||
+| P ||
+| Q ||
+| R ||
+| S ||
+| T ||
+| U ||
+| V ||
+| W ||
+| X ||
+| Y ||
+| Z ||
+
+</details>
+
+## Mechaniken
+
+<details>
+	<summary>(Tabelle Ausklappen)</summary>
+
+|   |  |
+|:-:|:-|
+| A ||
+| B ||
+| C ||
+| D ||
+| E ||
+| F ||
+| G ||
+| H ||
+| I |[<e>Interagieren](/de_de/mechanics/interact.md)|
 | J ||
 | K ||
 | L ||
