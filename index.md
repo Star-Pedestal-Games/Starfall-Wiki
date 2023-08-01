@@ -1,4 +1,4 @@
-# Starfall Wiki
+# [<t>Starfall Wiki](#)
 
-- [Deutsch](./de_de/index)
-<!-- - [English](./en_us/index) [WIP] -->
+- [<e>Deutsch]({{site.baseurl}}/de_de/index)
+- [<m>English](#)

@@ -1,4 +1,4 @@
-# [Starfall Wiki](/de_de/index.md)
+# [<t>Starfall Wiki]({{site.baseurl}}/de_de/index.md)
 
 {% include de_de/wip.md %}
 

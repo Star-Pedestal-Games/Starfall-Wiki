@@ -1,4 +1,4 @@
-# [Starfall Wiki](/index.md) (DE)
+# [<t>Starfall Wiki]({{site.baseurl}}/index.md) (DE)
 
 {% include de_de/wip.md %}
 
@@ -6,7 +6,7 @@ Willkommen im Starfall Wiki! <br>
 Hier finden Sie Informationen und Hilfen zu Starfall Objekten, NPC´s, Gegnern, Items und vielem mehr.
 
 ## Inhalt:
- 1. [Crafting Materialien](#crafting-material)
+ 1. [Herstellungsmaterialien](#herstellungsmaterialien)
  2. [Waffen](#waffen)
  3. [Rüstungen](#rüstungen)
  4. [Relikte](#relikte)
@@ -19,8 +19,9 @@ Hier finden Sie Informationen und Hilfen zu Starfall Objekten, NPC´s, Gegnern, 
 11. [Dungeons](#dungeons)
 12. [Mechaniken](#mechaniken)
 
-## Crafting Materialien
+## Herstellungsmaterialien
 
+Herstellungsmaterialien sin Gegenstände welche zur Herstellung anderer Gegenstände genutzt werden, Alleine haben sie keinen großen nutzen.
 <details>
 	<summary>(Tabelle Ausklappen)</summary>
 
@@ -37,14 +38,14 @@ Hier finden Sie Informationen und Hilfen zu Starfall Objekten, NPC´s, Gegnern, 
 | I ||
 | J ||
 | K ||
-| L |[<e>Leder](/de_de/crafting_material/leather.md)|
+| L |[<e>Leder]({{site.baseurl}}/de_de/crafting_material/leather.md)|
 | M ||
 | N ||
 | O ||
 | P ||
 | Q ||
 | R ||
-| S |[<e>Stock](/de_de/crafting_material/stick.md)|
+| S |[<e>Stock]({{site.baseurl}}/de_de/crafting_material/stick.md)|
 | T ||
 | U ||
 | V ||
@@ -56,6 +57,8 @@ Hier finden Sie Informationen und Hilfen zu Starfall Objekten, NPC´s, Gegnern, 
 </details>
 
 ## Waffen
+
+Waffen sind Gegenstände deren Aufgabe es ist Schaden an [<e>Gegnern](#gegner) zu machen.
 
 <details>
 	<summary>(Tabelle Ausklappen)</summary>
@@ -93,6 +96,8 @@ Hier finden Sie Informationen und Hilfen zu Starfall Objekten, NPC´s, Gegnern, 
 
 ## Rüstungen
 
+Rüstungen sind Ausrüstungsgegenstände dessen Aufgabe es ist dem Spieler zu Helfen zu Überleben.
+
 <details>
 	<summary>(Tabelle Ausklappen)</summary>
 
@@ -128,6 +133,8 @@ Hier finden Sie Informationen und Hilfen zu Starfall Objekten, NPC´s, Gegnern, 
 </details>
 
 ## Relikte
+
+Relikte sind Ausrüstungsgegenstände die dem Spieler Verbesserungen geben.
 
 <details>
 	<summary>(Tabelle Ausklappen)</summary>
@@ -165,6 +172,8 @@ Hier finden Sie Informationen und Hilfen zu Starfall Objekten, NPC´s, Gegnern, 
 
 ## Artefakte
 
+Artefakte sind Ausrüstungsgegenstände welche man im obersten linken Inventar Slot ausrüstet, wie [<e>Relikte](#relikte) geben sie dem Spieler Verbesserungen.
+
 <details>
 	<summary>(Tabelle Ausklappen)</summary>
 
@@ -200,6 +209,8 @@ Hier finden Sie Informationen und Hilfen zu Starfall Objekten, NPC´s, Gegnern, 
 </details>
 
 ## NPCs
+
+NPCs sind [<o>Non Player Character](https://de.wikipedia.org/wiki/Nicht-Spieler-Charakter)[^1] (Nicht Spieler Charakter), Im context dieses Abschnittes werden nur Freundliche NPCs beachtet da feindliche NPCs unter [<e>Gegnern](#gegner) und [<e>Bossen](#bosse) gelistet werden.
 
 <details>
 	<summary>(Tabelle Ausklappen)</summary>
@@ -237,6 +248,8 @@ Hier finden Sie Informationen und Hilfen zu Starfall Objekten, NPC´s, Gegnern, 
 
 ## Gegner
 
+Gegner sind Feindliche [<e>NPCs](#npcs) welche den Spieler angreifen.
+
 <details>
 	<summary>(Tabelle Ausklappen)</summary>
 
@@ -272,6 +285,8 @@ Hier finden Sie Informationen und Hilfen zu Starfall Objekten, NPC´s, Gegnern, 
 </details>
 
 ## Mini-Bosse
+
+Mini-Bosse sind stärkere [<e>Gegner](#gegner).
 
 <details>
 	<summary>(Tabelle Ausklappen)</summary>
@@ -309,6 +324,8 @@ Hier finden Sie Informationen und Hilfen zu Starfall Objekten, NPC´s, Gegnern, 
 
 ## Bosse
 
+Bosse sind im Grunde nur [<e>Gegner](#gegner), jedoch sind sie meistens in abgetrennten Arenen und haben ein Einzigartiges Kampf muster. Bosse lassen einzigartige Beute fallen sollte der Spieler es schaffen sie zu besiegen.
+
 <details>
 	<summary>(Tabelle Ausklappen)</summary>
 
@@ -344,6 +361,8 @@ Hier finden Sie Informationen und Hilfen zu Starfall Objekten, NPC´s, Gegnern, 
 </details>
 
 ## Orte
+
+Orte sind bestimmte Bereiche in der Welt von Starfall.
 
 <details>
 	<summary>(Tabelle Ausklappen)</summary>
@@ -381,6 +400,8 @@ Hier finden Sie Informationen und Hilfen zu Starfall Objekten, NPC´s, Gegnern, 
 
 ## Dungeons
 
+Dungeons sind Spezielle [<e>Orte](#orte) in Starfall in welchen man [<e>Bosse](#bosse) oder Herausforderungen finden kann.
+
 <details>
 	<summary>(Tabelle Ausklappen)</summary>
 
@@ -417,6 +438,8 @@ Hier finden Sie Informationen und Hilfen zu Starfall Objekten, NPC´s, Gegnern, 
 
 ## Mechaniken
 
+Mechaniken sind Funktionen die im Normalen Minecraft nicht vorhanden sind und deshalb hier nochmal gelistet sind und erklärt werden.
+
 <details>
 	<summary>(Tabelle Ausklappen)</summary>
 
@@ -430,7 +453,7 @@ Hier finden Sie Informationen und Hilfen zu Starfall Objekten, NPC´s, Gegnern, 
 | F ||
 | G ||
 | H ||
-| I |[<e>Interagieren](/de_de/mechanics/interact.md)|
+| I |[<e>Interagieren]({{site.baseurl}}/de_de/mechanics/interact.md)|
 | J ||
 | K ||
 | L ||
@@ -450,3 +473,7 @@ Hier finden Sie Informationen und Hilfen zu Starfall Objekten, NPC´s, Gegnern, 
 | Z ||
 
 </details>
+
+##
+#### Links
+[^1]: Wikipedia (https://de.wikipedia.org/wiki/Nicht-Spieler-Charakter) abgerufen am 01.08.2023 12:46
