@@ -1,6 +1,6 @@
 ---
-permalink: /en_us/
+permalink: {{ "/en_us/" | relative_url }}
 ---
-# [<t>Starfall Wiki](/) (EN)
+# [<t>Starfall Wiki]({{ "/" | absolute_url }}) (EN)
 
 WIP

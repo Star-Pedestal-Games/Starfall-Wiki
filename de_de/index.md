@@ -1,7 +1,7 @@
 ---
-permalink: /de_de/
+permalink: {{ "/de_de/" | relative_url }}
 ---
-# [<t>Starfall Wiki](/) (DE)
+# [<t>Starfall Wiki]({{ "/" | absolute_url }}) (DE)
 
 {% include de_de/wip.md %}
 
