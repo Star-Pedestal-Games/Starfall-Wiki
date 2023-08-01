@@ -1,4 +1,7 @@
-# [<t>Starfall Wiki]({{site.baseurl}}/de_de/index)
+---
+permalink: /de_de/crafting-materials/stick/
+---
+# [<t>Starfall Wiki](/de_de/)
 
 {% include de_de/wip.md %}
 

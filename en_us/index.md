@@ -1,3 +1,6 @@
-# [<t>Starfall Wiki]({{site.baseurl}}/index) (EN)
+---
+permalink: /en_us/
+---
+# [<t>Starfall Wiki](/) (EN)
 
 WIP

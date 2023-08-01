@@ -1,4 +1,7 @@
-# [<t>Starfall Wiki]({{site.baseurl}}/index) (DE)
+---
+permalink: /de_de/
+---
+# [<t>Starfall Wiki](/) (DE)
 
 {% include de_de/wip.md %}
 
@@ -38,14 +41,14 @@ Herstellungsmaterialien sin GegenstÃ¤nde welche zur Herstellung anderer GegenstÃ
 | I ||
 | J ||
 | K ||
-| L |[<e>Leder]({{site.baseurl}}/de_de/crafting_material/leather)|
+| L |[<e>Leder](/de_de/crafting-materials/leather/)|
 | M ||
 | N ||
 | O ||
 | P ||
 | Q ||
 | R ||
-| S |[<e>Stock]({{site.baseurl}}/de_de/crafting_material/stick)|
+| S |[<e>Stock](/de_de/crafting-materials/stick/)|
 | T ||
 | U ||
 | V ||

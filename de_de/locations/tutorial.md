@@ -1,10 +1,13 @@
-# [<t>Starfall Wiki]({{site.baseurl}}/de_de/index)
+---
+permalink: /de_de/locations/tutorial/
+---
+# [<t>Starfall Wiki](/de_de/)
 
 {% include de_de/wip.md %}
 
 ## Das Tutorial
 
-Das Tutorial ist eine kleine einführung in Starfall, es versucht die Basis [<e>Mechaniken]({{site.baseurl}}/de_de/index#mechaniken) von Minecraft und Starfall zu Lehren sowie das ende von Prefall darstellt.
+Das Tutorial ist eine kleine einführung in Starfall, es versucht die Basis [<e>Mechaniken](/de_de/#mechaniken) von Minecraft und Starfall zu Lehren sowie das ende von Prefall darstellt.
 
 <!-- TODO: Das mit dem Prefall überarbeiten. -->
 
@@ -16,7 +19,7 @@ Das Tutorial beginnt mit einem Parkour welches dem Spieler beibringen soll wie d
 
 Nach dem [<e>Parkour](#parkour) gerät  man an eine Kreuzung,<br>
 Zur Rechten ist eine [<e>Burg](#die-burg) welche du nicht betreten kannst ohne eine Waffe zu erhalten.<br>
-Zur Linken ist ein "Haus" in welchem man das [<e>Interagieren]({{site.baseurl}}/de_de/mechanics/interact) lernt, Im "Haus" gibt es viele [<e>Interaktionen]({{site.baseurl}}/de_de/mechanics/interact#interaktion) welche einem ein bisschen Informationen über das Objekt geben.
+Zur Linken ist ein "Haus" in welchem man das [<e>Interagieren](/de_de/mechaniken) lernt, Im "Haus" gibt es viele [<e>Interaktionen](/de_de/mechanics/interact/#interaktion) welche einem ein bisschen Informationen über das Objekt geben.
 In diesem Haus Lebt [<m>Jeffrey]() welcher dem Player ein [<m>Schwert]() gibt durch welches er fortfahren kann sowie dem Spieler eine [<m>Quest]() gibt.
 
 ### Die Burg
