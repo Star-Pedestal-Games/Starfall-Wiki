@@ -1,6 +1,8 @@
 title: Starfall Wiki
 description: The Starfall Wiki
 
+baseurl: "/Starfall-Wiki"
+
 markdown: GFM
 remote_theme: pages-themes/leap-day@v0.2.0
 plugins:
