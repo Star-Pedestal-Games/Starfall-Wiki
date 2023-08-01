@@ -1,4 +1,5 @@
 ---
+title: Starfall Wiki
 permalink: {{ "/" | relative_url }}
 ---
 
